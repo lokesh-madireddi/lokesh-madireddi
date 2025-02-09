@@ -1,8 +1,8 @@
 # 🚀 My Awesome Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/lokesh-madireddi/<your-repo>)
-![GitHub repo size](https://img.shields.io/github/repo-size/lokesh-madireddi/<your-repo>)
-![GitHub contributors](https://img.shields.io/github/contributors/<your-username>/<your-repo>)
+![GitHub last commit](https://img.shields.io/github/last-commit/lokesh-madireddi/Docker_webapp)
+![GitHub repo size](https://img.shields.io/github/repo-size/lokesh-madireddi/Docker_webapp)
+![GitHub contributors](https://img.shields.io/github/contributors/lokesh-madireddi/Docker_Webapp)
 
 ---
 
