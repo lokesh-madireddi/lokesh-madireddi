@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @lokesh-madireddi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🚀 My Awesome Project
 
-<!---
-lokesh-madireddi/lokesh-madireddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub last commit](https://img.shields.io/github/last-commit/<your-username>/<your-repo>)
+![GitHub repo size](https://img.shields.io/github/repo-size/<your-username>/<your-repo>)
+![GitHub contributors](https://img.shields.io/github/contributors/<your-username>/<your-repo>)
+
+---
+
+## 📌 About the Project
+A brief description of what this project does.
+
+---
+
+## 🔥 Features
+- ✅ Feature 1
+- ✅ Feature 2
+- ✅ Feature 3
+
+---
+
+## 📊 GitHub Stats  
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Installation  
+```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
