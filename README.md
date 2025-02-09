@@ -19,7 +19,7 @@ A brief description of what this project does.
 ---
 
 ## 📊 GitHub Stats  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<lokesh-madireddi>&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh-madireddi&show_icons=true&theme=radical)
 
 ---
 
