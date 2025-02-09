@@ -1,7 +1,7 @@
 # 🚀 My Awesome Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/<your-username>/<your-repo>)
-![GitHub repo size](https://img.shields.io/github/repo-size/<your-username>/<your-repo>)
+![GitHub last commit](https://img.shields.io/github/last-commit/lokesh-madireddi/<your-repo>)
+![GitHub repo size](https://img.shields.io/github/repo-size/lokesh-madireddi/<your-repo>)
 ![GitHub contributors](https://img.shields.io/github/contributors/<your-username>/<your-repo>)
 
 ---
