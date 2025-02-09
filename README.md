@@ -7,14 +7,11 @@
 ---
 
 ## 📌 About the Project
-A brief description of what this project does.
+Still in progress.....
 
 ---
 
 ## 🔥 Features
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
 
 ---
 
@@ -25,7 +22,7 @@ A brief description of what this project does.
 
 ## 🚀 Installation  
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/lokesh-madireddi/Docker_webapp.git
+cd Docker_webapp
 
 last update on : YYYY-MM-DD
