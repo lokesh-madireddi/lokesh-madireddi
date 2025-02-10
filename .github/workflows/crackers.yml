@@ -1,0 +1,34 @@
+name: Crackers Contribution Pattern
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  commit-fireworks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "Lokesh Madireddi"
+          git config --global user.email "lokeshmadireddi55@gmail.com"
+
+      - name: Generate Crackers Pattern Commits
+        run: |
+          # Create a folder if not exists
+          mkdir -p crackers
+
+          # Generate specific commit pattern for GitHub contributions
+          for i in {1..5}; do  # Adjust values to control pattern density
+            echo "Fireworks Commit $i" >> crackers/crackers-pattern.txt
+            git add crackers/crackers-pattern.txt
+            git commit -m "✨ Fireworks Commit $i 🎆"
+            sleep 2  # Small delay to spread commit timestamps
+          done
+
+      - name: Push Changes
+        run: git push origin main
