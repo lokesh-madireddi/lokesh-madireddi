@@ -8,31 +8,27 @@ on:
 jobs:
   commit-fireworks:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Allow pushing to a branch
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          ref: main  # Ensure we are working on the main branch
 
       - name: Configure Git
         run: |
-          git config --global user.name "Lokesh-Madireddi"
+          git config --global user.name "Lokesh Madireddi"
           git config --global user.email "lokeshmadireddi55@gmail.com"
 
-      - name: Generate Crackers Pattern Commits
+      - name: Generate Crackers Pattern SVG
         run: |
-          # Create a unique file for each commit to ensure Git registers changes
-          mkdir -p crackers
+          mkdir -p dist  # Ensure directory exists
+          echo '<svg width="400" height="110"><text x="10" y="50">🎆 Crackers Animation 🎇</text></svg>' > dist/crackers.svg
 
-          for i in {1..5}; do  # Adjust the loop count for pattern density
-            FILE="crackers/crackers-pattern-$i.txt"
-            echo "✨ Fireworks Commit $i 🎆 - $(date)" > $FILE
-            git add $FILE
-            git commit -m "🔥 Fireworks Commit $i 🎇"
-            sleep 2  # Adding a delay to spread commit timestamps
-          done
-
-      - name: Push Changes
-        run: |
-          git pull origin main --rebase  # Ensure latest changes
-          git push origin main
+      - name: Push crackers.svg to GitHub Pages branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: gh-pages  # This will contain the crackers.svg
+          build_dir: dist  # Directory where crackers.svg is stored
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
