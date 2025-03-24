@@ -21,4 +21,4 @@ Still in progress.....
 ---
 
 
-<img src="https://lokesh-madireddi.github.io/lokesh-madireddi/crackers.svg" alt="Cracker animation" />
+<img src="https://lokesh-madireddi.github.io/lokesh-madireddi/crackers.yml" alt="Cracker animation" />
