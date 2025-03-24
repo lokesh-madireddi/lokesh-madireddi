@@ -22,3 +22,4 @@ Still in progress.....
 
 
 <img src="https://lokesh-madireddi.github.io/lokesh-madireddi/crackers.yml" alt="Cracker animation" />
+https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&radius=16&theme=react&area=true&order=5
