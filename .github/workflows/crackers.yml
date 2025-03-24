@@ -17,7 +17,7 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "Lokesh Madireddi"
+          git config --global user.name "lokesh-madireddi"
           git config --global user.email "lokeshmadireddi55@gmail.com"
 
       - name: Generate Crackers Pattern SVG
