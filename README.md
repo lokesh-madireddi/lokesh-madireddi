@@ -20,11 +20,5 @@ Still in progress.....
 
 ---
 
-## 🚀 Installation  
-```bash
-git clone https://github.com/lokesh-madireddi/Docker_webapp.git
-cd Docker_webapp
-```
-last update on : YYYY-MM-DD
 
 <img src="https://lokesh-madireddi.github.io/lokesh-madireddi/crackers.svg" alt="Cracker animation" />
