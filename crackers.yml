@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          ref: main  # Ensure we're on the main branch
 
       - name: Configure Git
         run: |
@@ -24,11 +26,14 @@ jobs:
 
           # Generate specific commit pattern for GitHub contributions
           for i in {1..5}; do  # Adjust values to control pattern density
-            echo "Fireworks Commit $i" >> crackers/crackers-pattern.txt
-            git add crackers/crackers-pattern.txt
+            echo "Fireworks Commit $i - $(date)" > crackers/crackers-pattern-$i.txt
+            git add crackers/
             git commit -m "✨ Fireworks Commit $i 🎆"
             sleep 2  # Small delay to spread commit timestamps
           done
 
       - name: Push Changes
-        run: git push origin main
+        run: |
+          git branch  # Check current branch
+          git pull origin main  # Ensure latest changes
+          git push origin main
