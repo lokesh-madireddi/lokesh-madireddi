@@ -12,28 +12,27 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          ref: main  # Ensure we're on the main branch
+          ref: main  # Ensure we are working on the main branch
 
       - name: Configure Git
         run: |
-          git config --global user.name "Lokesh Madireddi"
+          git config --global user.name "Lokesh-Madireddi"
           git config --global user.email "lokeshmadireddi55@gmail.com"
 
       - name: Generate Crackers Pattern Commits
         run: |
-          # Create a folder if not exists
+          # Create a unique file for each commit to ensure Git registers changes
           mkdir -p crackers
 
-          # Generate specific commit pattern for GitHub contributions
-          for i in {1..5}; do  # Adjust values to control pattern density
-            echo "Fireworks Commit $i - $(date)" > crackers/crackers-pattern-$i.txt
-            git add crackers/
-            git commit -m "✨ Fireworks Commit $i 🎆"
-            sleep 2  # Small delay to spread commit timestamps
+          for i in {1..5}; do  # Adjust the loop count for pattern density
+            FILE="crackers/crackers-pattern-$i.txt"
+            echo "✨ Fireworks Commit $i 🎆 - $(date)" > $FILE
+            git add $FILE
+            git commit -m "🔥 Fireworks Commit $i 🎇"
+            sleep 2  # Adding a delay to spread commit timestamps
           done
 
       - name: Push Changes
         run: |
-          git branch  # Check current branch
-          git pull origin main  # Ensure latest changes
+          git pull origin main --rebase  # Ensure latest changes
           git push origin main
