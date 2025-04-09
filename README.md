@@ -20,7 +20,8 @@ I love exploring new technologies, contributing to open-source projects, and bui
 
 ### 💻 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh-madireddi&show_icons=true&hide_title=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&radius=16&theme=react&area=true&order=5&hide=issues,pulls)
+
 
 ### 📚 Top Languages
 
