@@ -36,7 +36,7 @@ I love exploring new technologies, contributing to open-source projects, and bui
 
 ## 🕹️ Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&theme=react&radius=16&order=5)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&radius=16&theme=blue&area=true&order=5&hide=issues,pulls)
 
 ---
 
