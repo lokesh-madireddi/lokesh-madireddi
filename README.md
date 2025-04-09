@@ -20,8 +20,7 @@ I love exploring new technologies, contributing to open-source projects, and bui
 
 ### 💻 GitHub Stats
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&radius=10&theme=react&area=true&order=5)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh-madireddi&show_icons=true&hide_title=true)
 
 ### 📚 Top Languages
 
@@ -37,13 +36,13 @@ I love exploring new technologies, contributing to open-source projects, and bui
 
 ## 🕹️ Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&radius=16&theme=blue&area=true&order=5&hide=issues,pulls)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&radius=16&theme=react&area=true&order=5)
 
 ---
 
 ## 📬 How to Reach Me
 
-- Email: [lokeshmadireddi](mailto:lokeshmadireddi2000@gmail.com)
+- Email: [lokeshmadireddi](mailto:lokesh.madireddi@example.com)
 - LinkedIn: [Lokesh Madireddi](https://www.linkedin.com/in/lokesh-madireddi)
 
 ---
