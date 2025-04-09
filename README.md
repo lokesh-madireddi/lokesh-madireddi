@@ -7,7 +7,7 @@
 ---
 
 ## 📌 About the Project
-Still in progress.....
+![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/commit-activity?username=lokesh-madireddi)
 
 ---
 
