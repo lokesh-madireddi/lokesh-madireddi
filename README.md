@@ -36,21 +36,13 @@ I love exploring new technologies, contributing to open-source projects, and bui
 
 ## 🕹️ Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&radius=16&theme=react&area=true&order=5)
-
----
-
-## 🧑‍💻 My Recent Projects
-
-- [Project 1](https://github.com/lokesh-madireddi/project1) - A detailed description of the project.
-- [Project 2](https://github.com/lokesh-madireddi/project2) - Another cool project I worked on.
-- [Project 3](https://github.com/lokesh-madireddi/project3) - Short description of the third project.
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokesh-madireddi&theme=react&radius=16&order=5)
 
 ---
 
 ## 📬 How to Reach Me
 
-- Email: [lokesh.madireddi@example.com](mailto:lokesh.madireddi@example.com)
+- Email: [lokeshmadireddi](mailto:lokeshmadireddi2000@gmail.com)
 - LinkedIn: [Lokesh Madireddi](https://www.linkedin.com/in/lokesh-madireddi)
 
 ---
