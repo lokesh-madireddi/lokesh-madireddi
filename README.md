@@ -8,7 +8,7 @@ I love exploring new technologies, contributing to open-source projects, and bui
 
 ## 🔧 Technologies & Tools I Use
 
-- **Cloud Platforms**: Azure, AWS
+- **Cloud Platforms**: Azure, AWS 
 - **DevOps Tools**: Docker, Kubernetes, Terraform, Jenkins
 - **Languages**: Python, JavaScript, C#, Go
 - **Databases**: SQL Server, MongoDB, PostgreSQL
