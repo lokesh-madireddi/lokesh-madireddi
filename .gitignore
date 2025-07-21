@@ -1,4 +1,3 @@
 # Ignore environment variables
 
 .env
-file.md
