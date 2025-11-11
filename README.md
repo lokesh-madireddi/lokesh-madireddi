@@ -1,6 +1,6 @@
 # Hi there, I'm Lokesh Madireddi 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer focused on **Azure**, **Kubernetes**, and **DevOps**.
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer focused on **Azure**, **Kubernetes**, and **DevOps**.
 
 I love exploring new technologies, contributing to open-source projects, and building scalable solutions.
 
@@ -10,8 +10,8 @@ I love exploring new technologies, contributing to open-source projects, and bui
 
 - **Cloud Platforms**: Azure, AWS 
 - **DevOps Tools**: Docker, Kubernetes, Terraform, Jenkins
-- **Languages**: Python, JavaScript, C#, Go
-- **Databases**: SQL Server, MongoDB, PostgreSQL
+- **Languages**: Python, Bash
+- **Databases**: SQL Server, PostgreSQL
 - **Tools**: Git, GitHub, VS Code, Jenkins, Azure DevOps
 
 ---
@@ -42,14 +42,13 @@ I love exploring new technologies, contributing to open-source projects, and bui
 
 ## 📬 How to Reach Me
 
-- Email: [lokeshmadireddi](mailto:lokesh.madireddi@example.com)
+- Email: [lokeshmadireddi](mailto:madireddi.2000@gmail.com)
 - LinkedIn: [Lokesh Madireddi](https://www.linkedin.com/in/lokesh-madireddi)
 
 ---
 
 ## 🎯 Currently Learning
 
-- **Azure Kubernetes Service (AKS)** for cloud-native solutions.
 - Exploring **Generative AI** and its applications.
 
 ---
